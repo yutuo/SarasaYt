@@ -1,0 +1,71 @@
+{
+	"familyOrder": ["cc"],
+	"families": {
+		"cc": {
+			"isMono": true,
+			"isType": true,
+			"latinGroup": "iosevka-cc",
+			"naming": {
+				"en_US": "SarasaYt",
+				"zh_CN": "SarasaYt",
+				"zh_TW": "SarasaYt",
+				"zh_HK": "SarasaYt",
+				"ja_JP": "SarasaYt"
+			}
+		}
+	},
+	"styleOrder": [
+		"regular",
+		"italic",
+		"bold",
+		"bolditalic"
+	],
+	"styles": {
+		"regular": { "name": "Regular" },
+		"italic": {
+			"name": "Italic",
+			"uprightStyleMap": "regular"
+		},
+		"bold": { "name": "Bold" },
+		"bolditalic": {
+			"name": "Bold Italic",
+			"uprightStyleMap": "bold"
+		}
+	},
+
+	"subfamilyOrder": ["cl", "sc", "tc", "hc", "j"],
+	"subfamilies": {
+		"cl": { "name": "CL" },
+		"sc": { "name": "SC" },
+		"tc": { "name": "TC" },
+		"hc": { "name": "HC" },
+		"j": { "name": "J" }
+	},
+
+	"os2encodings": {
+		"J": { "gbk": false, "big5": false, "jis": true, "korean": true },
+		"SC": { "gbk": true, "big5": false, "jis": false, "korean": true },
+		"TC": { "gbk": false, "big5": true, "jis": false, "korean": true },
+		"HC": { "gbk": false, "big5": true, "jis": false, "korean": true },
+		"CL": { "gbk": false, "big5": true, "jis": false, "korean": true }
+	},
+
+	"copyright": "Copyright 2015-2019, Belleve Invis (belleve@typeof.net). Portions Copyright © 2014, 2015 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Portions Copyright 2012 Google Inc.",
+
+	"shsSourceMap": {
+		"region": {
+			"j": "SourceHanSans",
+			"cl": "SourceHanSansK",
+			"sc": "SourceHanSansSC",
+			"tc": "SourceHanSansTC",
+			"hc": "SourceHanSansHC"
+		},
+		"style": {
+			"extralight": "ExtraLight",
+			"light": "Light",
+			"regular": "Regular",
+			"medium": "Medium",
+			"bold": "Bold"
+		}
+	}
+}
